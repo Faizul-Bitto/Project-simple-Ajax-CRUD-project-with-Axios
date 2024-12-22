@@ -11,8 +11,8 @@
 
 Here's a quick overview of the files and folders:
 
-*    css/: Contains styles for the application. 🎨
-*    js/: Houses JavaScript files for handling Ajax and Axios requests. ⚙️
+*    css/milligram.css: Contains styles for the application. 🎨
+*    js/axios.min.js: Houses JavaScript file for handling Ajax and Axios requests. ⚙️
 *    create.html: Page for creating new records. 🆕
 *    index.html: Main page to view all records. 📋
 *    update.html: Page for updating existing records. ✏️

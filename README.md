@@ -6,9 +6,19 @@
 
 [https://faizul-bitto.github.io/Project-simple-Ajax-CRUD-project-with-Axios/](https://faizul-bitto.github.io/Project-simple-Ajax-CRUD-project-with-Axios/)
 
+
+<h2>📂 Project Structure</h2>
+
+Here's a quick overview of the files and folders:
+
+*    css/: Contains styles for the application. 🎨
+*    js/: Houses JavaScript files for handling Ajax and Axios requests. ⚙️
+*    create.html: Page for creating new records. 🆕
+*    index.html: Main page to view all records. 📋
+*    update.html: Page for updating existing records. ✏️
+
   
-  
-<h2>🧐 Features</h2>
+<h2>✨ Features</h2>
 
 Here're some of the project's best features:
 

@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Ajax CRUD Project with Axios - README</title>
-</head>
-<body>
+
     <h1>🌐 Simple Ajax CRUD Project with Axios 🚀</h1>
     <p>
         Welcome to the <strong>Simple Ajax CRUD Project with Axios</strong>! This project showcases how to implement basic CRUD (Create, Read, Update, Delete) operations using Ajax and Axios for seamless, asynchronous interactions. 🎉
